@@ -5,9 +5,18 @@
   font-family: 'Noto Sans HK', sans-serif;
 }
 
+#wrapper {
+  font-family: 'Noto Sans HK', sans-serif;
+  font-size: 16px;
+}
+
 .logo {
   font-family: 'Faster One', cursive;
-  font-size: 18pt;
+  font-size: 24px;
+}
+
+#add-burger-text {
+  font-size: 18px;
 }
 
 .center {
