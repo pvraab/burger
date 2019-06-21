@@ -1,0 +1,2 @@
+mysql://crjik107tr5a7w4q:doc5668x383vusib@nt71li6axbkq1q6a.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/vbjfek89bwdh0lbs
+
