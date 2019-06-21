@@ -1,3 +1,21 @@
+#header {
+  font-family: 'Faster One', cursive;
+  font-family: 'Spectral SC', serif;
+  font-family: 'Ledger', serif;
+  font-family: 'Noto Sans HK', sans-serif;
+}
+
+.logo {
+  font-family: 'Faster One', cursive;
+  font-size: 18pt;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 li {
   padding: 5px;
   margin: 5px;
