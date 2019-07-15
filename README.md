@@ -13,7 +13,7 @@ Create a burger eating logger with MySQL, Node, Express, Handlebars and a homema
 
 ### Detailed Functionality
 
-- Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+- Consume Grilled Beef Disks! is a restaurant app that lets users input the names of burgers they'd like to eat.
 - Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
 - Each burger in the waiting area also has a `Eat It!` button. When the user clicks it, the burger will move to the right side of the page.
 - There is also a `Delete!` button for deleting an entry from the screen and a `Return!` button to move it from the right of the screen back to the left side..
